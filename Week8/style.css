@@ -1,0 +1,35 @@
+body{
+    background-color:#cc9bf6 !important;
+}
+#head{
+    background-color:gray;
+    text-align: center;
+    color:white;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+#game{
+    background-color: rgb(246, 241, 235);
+    margin-top:60px;
+    padding-top:50px;
+    padding-bottom:50px;
+    text-align: center;
+    justify-content: space-evenly;
+}
+#choices{
+    display:flex;
+    align-items: center;
+    margin-top:30px;
+    margin-right:10%;
+    margin-left:10%;
+}
+#winImage{
+    display:none;
+}
+#loseImage{
+    display:none;
+}
+#refresh{
+    display:none;
+    color:white;
+}
