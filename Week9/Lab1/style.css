@@ -1,0 +1,18 @@
+#banner{
+    background-color:#b84427;
+    text-align: center;
+    color:black;
+}
+#song{
+    text-align:center;
+    padding-top: 50px;
+}
+#intro{
+    text-align:center;
+    padding-top:20px;
+}
+#lyrics{
+    text-align:center;
+    padding-top:20px;
+    padding-bottom:50px;
+}
